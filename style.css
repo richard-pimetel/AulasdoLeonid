@@ -1,0 +1,82 @@
+h1{
+    background-color: Orange;
+    padding: 7px;
+    text-align: center;
+  }
+  h2{
+    background-color: Orange;
+    padding: 8px;
+    text-align: center;
+  }
+  h3{
+    padding: 8px;
+    text-align: center;
+    margin: auto;
+   
+  }
+  li{
+    margin: auto;
+    list-style-position: inside;
+    text-align: left;
+  }
+  
+  a{
+    text-decoration: none;
+    background-color: gold;
+    padding: 8px;
+  }
+  img{
+    margin-top: 10px;
+    width: 55%;
+    margin: auto;
+    display: block;
+    
+  }
+  
+  button{
+    padding: 8px;
+    font-weight:900;
+    text-transform: uppercase;
+  } 
+  
+      .section-content li {
+              margin-bottom: 10px;
+          }
+  
+          .section-content ul {
+              list-style: none;
+            padding: 0;
+  }
+           .container {
+              width: 60%;
+              margin: 0 auto;
+              text-align: left; }
+  
+  body {
+              font-family: Arial, sans-serif;
+              text-align: center;
+          }
+  
+    .preparation-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 2px solid #000;
+    padding-top: 10px;
+  }
+  
+  .info {
+    text-align: center;
+  }
+  
+  .info i {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  h4{
+    padding: 8px;
+    text-align: center;
+    margin: auto;
+   
+  }
